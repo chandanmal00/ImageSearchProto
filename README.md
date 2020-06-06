@@ -9,3 +9,5 @@ ImageSearchProto
 ##covert n*m image matrix to m size array by summing all numbers!
 ##need to do some normalization
 ##create signatures uing LSH by combining k chunks of the m size array 
+
+# Reducing image size using SVD method [50-60% drop in image size]
